@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36202.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcServer", "OpcServer.csproj", "{EAB128CE-BB3E-4AE3-8731-30680A928040}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcServer", "OpcServer\OpcServer.csproj", "{2BCB8003-8462-51DA-1831-5E876B001DDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EAB128CE-BB3E-4AE3-8731-30680A928040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EAB128CE-BB3E-4AE3-8731-30680A928040}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EAB128CE-BB3E-4AE3-8731-30680A928040}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EAB128CE-BB3E-4AE3-8731-30680A928040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCB8003-8462-51DA-1831-5E876B001DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCB8003-8462-51DA-1831-5E876B001DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCB8003-8462-51DA-1831-5E876B001DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCB8003-8462-51DA-1831-5E876B001DDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CD4C6755-91BB-4F64-81A3-A9F69940396D}
+		SolutionGuid = {51E86EBB-6FAA-402C-BB43-73880A69563D}
 	EndGlobalSection
 EndGlobal
